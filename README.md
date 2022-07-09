@@ -4,9 +4,9 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-![](./design/127.0.0.1_5500_index.html.png)
+![](./design/screenshot-1.png)
 
-            ![](./design/127.0.0.1_5500_index.html(iPhone%20X).png)
+![](./design/screenshot-2.png)
 
 
 - [solution](https://your-solution-url.com)
