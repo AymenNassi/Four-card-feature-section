@@ -111,6 +111,10 @@ body {
 }
 
 @media (min-width: 500px) {
+    .container .header h1 {
+        font-size: 2.2rem;
+    }
+
     .container {
         max-width: 90%;
         margin-top: 30px;
